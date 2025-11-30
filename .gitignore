@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+
+# VS Code
+.vscode/
+
+# Data (KHÔNG PUSH DỮ LIỆU LÊN)
+data_raw/
+data_processed/
+
+# System
+.DS_Store
